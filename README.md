@@ -26,9 +26,10 @@ Se utiliza la aplicación **Threat Analysis and Modeling Tool (TAMT)** con el pr
 
 ### Documentación en vivo
 
-📄 **Documento de trabajo colaborativo**: [Google Drive - Documento en vivo](URL_DEL_DOCUMENTO)
+**Documento de trabajo colaborativo**: [Google Drive - Documento en vivo](URL_DEL_DOCUMENTO) - **PENDIENTE**
 
 ---
 
 *Materia: Desarrollo Seguro y Auditoría*  
 *Actividad 1 - Modelado de amenazas*
+
